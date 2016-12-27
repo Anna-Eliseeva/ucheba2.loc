@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1875f07-6528-45aa-a24f-30bc8d901053" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/create-image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="ucheba2.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -223,7 +220,7 @@
       <workItem from="1479933538115" duration="180000" />
       <workItem from="1480005155441" duration="10000" />
       <workItem from="1480441859380" duration="2913000" />
-      <workItem from="1482739744101" duration="22455000" />
+      <workItem from="1482739744101" duration="22542000" />
     </task>
     <task id="LOCAL-00001" summary="sad">
       <created>1482853561127</created>
@@ -232,11 +229,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482853561127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Рисуем изображение">
+      <created>1482853777715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1482853777715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25558000" />
+    <option name="totallyTimeSpent" value="25645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="740" extended-state="6" />
@@ -275,7 +279,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sad" />
-    <option name="LAST_COMMIT_MESSAGE" value="sad" />
+    <MESSAGE value="Рисуем изображение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Рисуем изображение" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
